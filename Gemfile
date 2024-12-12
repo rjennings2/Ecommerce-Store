@@ -23,7 +23,7 @@ gem 'bootstrap', '~> 5.3.0'   # design
 gem 'faker', '~> 2.20'       # seeding data
 gem 'will_paginate', '~> 3.3' # pagination
 gem 'bcrypt', '~> 3.1.13'    # authentication
-gem 'rubocop', '~> 1.40'     # code styling
+gem 'rubocop', '~> 1.69'     # code styling
 gem 'sassc-rails'
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
